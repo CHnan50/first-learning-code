@@ -1,0 +1,10 @@
+.back-img{
+    background-image: url(img/cyber.jpeg);
+    background-position: initial;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    z-index: -1;
+    width: 400px;
+    height: 50px;
+}
